@@ -1,6 +1,7 @@
 ### Nathan VANSON, Léonie Dezempte, Mohammad Massi Rashidi UNIGE ###
 
 ### Rolling the dice ###
+### License : GNU Public License (GPL)
 ### Course : Probability and Statistics (TP1)
 
 # ========== LIBRAIRES ========== #

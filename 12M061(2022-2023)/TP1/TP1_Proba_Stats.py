@@ -83,7 +83,7 @@ def question5(n):
             c += 1
     return c / n
 
-# ========== MAIN ========== #
+# ========== MAIN / TEST ========== #
 
 if __name__ == "__main__":
     roll = roll_dice(3)

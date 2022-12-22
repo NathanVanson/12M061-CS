@@ -1,6 +1,7 @@
 ### Nathan VANSON UNIGE ###
 
 ### Card shuffling by the riffle shuffle ###
+### License : GNU Public License (GPL)
 ### Course : Probability and Statistics (TP2)
 
 # ========== LIBRAIRES ========== #
